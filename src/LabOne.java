@@ -15,6 +15,7 @@ import javax.swing.JTabbedPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 //Ö÷º¯Êý
+//2.5
 public class LabOne{
 	
 	static JFrame frame = new JFrame("Lab1");

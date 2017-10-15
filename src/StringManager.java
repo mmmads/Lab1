@@ -16,7 +16,7 @@ public class StringManager {
 	
 	public static String graphstr;
 	
-	
+	//2.5
 	//将字符串规格化
 	public String StringFormat(String str) {
 		

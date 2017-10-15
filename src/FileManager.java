@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-
+//文件管理2.5
 public class FileManager {
 	
 

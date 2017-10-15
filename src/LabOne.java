@@ -17,6 +17,7 @@ import javax.swing.JTextField;
 //主函数
 public class LabOne{
 	
+	//GUI部分
 	static JFrame frame = new JFrame("Lab1");
 	static JTabbedPane tabPane = new JTabbedPane();//选项卡布局
 	static Container container = new Container();

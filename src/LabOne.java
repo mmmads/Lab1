@@ -14,7 +14,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
-
+//Ö÷º¯Êý
 public class LabOne{
 	
 	static JFrame frame = new JFrame("Lab1");

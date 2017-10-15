@@ -12,7 +12,8 @@ import javax.swing.JScrollPane;
 public class GraphManager {
 	
 
-	//显示路径2.5
+
+	//显示路径图
 	public static void showDirectedGraph(String dotFormat,String fileName)
 	{
 	    GraphViz gv=new GraphViz();

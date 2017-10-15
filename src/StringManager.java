@@ -18,6 +18,7 @@ public class StringManager {
 	
 	//2.5
 	//将字符串规格化
+
 	public String StringFormat(String str) {
 		
 		str = str.replaceAll("[^a-zA-Z]"," ");
